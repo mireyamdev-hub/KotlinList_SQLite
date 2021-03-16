@@ -1,6 +1,6 @@
 # Note Taker Kotlin Android App
 
-WriteHere is the Android App where you can easily add notes, update and/or delete them form your list.
+WriteHere is the Android App where you can easily add notes, update and/or delete them form your list./n
 Data is saved in the app.
 03/16/2021 : Basic functions are working properly. The goal is to be adding new features over the next days.
 
