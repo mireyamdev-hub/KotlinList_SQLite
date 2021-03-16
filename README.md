@@ -6,8 +6,8 @@ Data is saved in the app.
 
 Here are some screeshots about it 
 
-![alt text](https://github.com/mireyamdev-hub/NoteTaker_KotlinApp/blob/main/Sample_photos/Main.jpg)
-![alt text](https://github.com/mireyamdev-hub/NoteTaker_KotlinApp/blob/main/Sample_photos/Add_note.jpg)
-![alt text](https://github.com/mireyamdev-hub/NoteTaker_KotlinApp/blob/main/Sample_photos/Update_note.jpg)
+![alt text](https://github.com/mireyamdev-hub/NoteTaker_KotlinApp/blob/main/Sample_photos/Main.jpg =250x250)
+![alt text](https://github.com/mireyamdev-hub/NoteTaker_KotlinApp/blob/main/Sample_photos/Add_note.jpg =250x250)
+![alt text](https://github.com/mireyamdev-hub/NoteTaker_KotlinApp/blob/main/Sample_photos/Update_note.jpg =250x250)
 
 
